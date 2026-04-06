@@ -4,8 +4,9 @@
 This assignment focuses on analyzing algorithm efficiency using different approaches such as time complexity, recursion, and searching techniques.
 
 ## How to Run
-g++ algorithms_assignment1.cpp -o output
+g++ algorithms_assignment2.py-o output
 ./output
 
 ## Author
-Name: Your Name
+Name: PIYUSH SUNGH
+Roll no: 2401730288
